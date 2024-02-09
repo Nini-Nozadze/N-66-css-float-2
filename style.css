@@ -1,0 +1,17 @@
+#p1{
+    width: 232px;
+    height: 297px;
+    border: 2px solid grey;
+    overflow-x: scroll; 
+    float: left;
+    margin-top: 9px;
+
+}
+
+#img{
+    width: 560px;
+    height: 645px;
+    float: right;
+    margin-top: 9px;
+}
+
